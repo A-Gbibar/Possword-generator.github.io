@@ -13,4 +13,6 @@ This project generates strong and excellent passwords created by **AISSA GBIBAR*
 
 ![preview project 2023](img/preview.png "preview")
 
-___
+---
+
+test push command
